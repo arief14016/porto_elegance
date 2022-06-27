@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/snakeye1/public_html/porto_elegance
+    - export DEPLOYPATH=/home/u1594483/public_html/
     - /bin/cp -R * $DEPLOYPATH
